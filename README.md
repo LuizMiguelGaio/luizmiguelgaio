@@ -2,9 +2,11 @@
 
 Sou um profissional de TI em transição, com base sólida em suporte técnico, redes e automação. Atuo atualmente com infraestrutura Windows, AD, PowerShell e Python, e estou em busca de consolidar uma trilha técnica que una eficiência, clareza e impacto.
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas
-🔧 Estudo PowerShell, bancos de dados e práticas de automação para ambientes corporativos.  
-📚 Em constante aprendizado, buscando soluções práticas e sustentáveis para o dia a dia de TI.
+### 🎓 Formado em Análise e Desenvolvimento de Sistemas
+
+### 🔧 Estudo PowerShell, bancos de dados e práticas de automação para ambientes corporativos.  
+
+### 📚 Em constante aprendizado, buscando soluções práticas e sustentáveis para o dia a dia de TI.
 
 ## 🛠️ Tecnologias e ferramentas
 - Windows Server, Active Directory, DNS, DHCP
