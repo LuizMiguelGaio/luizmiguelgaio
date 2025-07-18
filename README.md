@@ -1,4 +1,4 @@
-#👋 Olá! Eu sou o Luiz Miguel
+# 👋 Olá! Eu sou o Luiz Miguel
 Sou um profissional de TI em transição, com base sólida em suporte técnico, redes e automação. Atuo atualmente com infraestrutura Windows, AD, PowerShell e Python, e estou em busca de consolidar uma trilha técnica que una eficiência, clareza e impacto.
 
 Tenho direcionado meu foco para ambientes em nuvem, especialmente Azure, com o objetivo de ajudar empresas a modernizar suas operações e migrar de estruturas legadas para soluções escaláveis, automatizadas e seguras.
