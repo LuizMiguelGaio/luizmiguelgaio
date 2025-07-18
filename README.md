@@ -26,4 +26,4 @@ Azure (em estudo e prática), SQL (em estudo)
 Organizando meus scripts e estudos práticos para compartilhar aqui em breve.
 
 ## 📫 Vamos conversar?
-Você pode me encontrar no LinkedIn.[Linkedin](https://www.linkedin.com/in/luizmiguelgaio/)
+Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/luizmiguelgaio/).
